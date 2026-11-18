@@ -3,7 +3,7 @@
 // TYPE: comic
 // VERSION: 0.4.2
 // COLOR: #E50914
-// ICON: https://id.mgkomik.cc/wp-content/uploads/2021/04/cropped-Retina-Logo-e1667188792992-1-192x192.png
+// ICON: https://ibb.co.com/wN9gKh2y
 // REFERER: https://web1.mgkomik.cc/
 
 const BASE = 'https://web1.mgkomik.cc';
